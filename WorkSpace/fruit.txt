@@ -1,0 +1,8 @@
+apple
+banana
+orange
+peach
+watermelon
+pear
+coco
+
